@@ -1,0 +1,12 @@
+.note {
+  background-color: tomato;
+  width: 10%;
+  color: #fff;
+  margin-left: 2rem;
+  border-radius: 10px;
+}
+
+p {
+  font-size: 1.5rem;
+  margin-left: 4px
+}

@@ -1,0 +1,11 @@
+.header {
+  background-color: tomato;
+  padding: 1px;
+  width: 100%;
+  color: #fff;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.keeper {
+  margin-left: 2rem
+}
